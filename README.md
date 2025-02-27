@@ -1,8 +1,11 @@
 # Interface-Usuario-Menu
 
-<h2>🛠️ Configuração do Projeto</h2>
- <h2>📷 Imagens Hierarquia</h2>
+<h2>📌 Estrutura do Projeto</h2>
+<p>O projeto contém a seguinte hierarquia de objetos no Unity:</p>
+<h2>📷 Imagens Hierarquia</h2>
     <img src="IMG/IMG1.PNG" alt="Menu">
+
+<h2>🛠️ Configuração do Projeto</h2>
 <ol>
     <li>Abra o Unity e crie um novo projeto.</li>
     <li>Crie um <strong>Canvas</strong> para conter os elementos do menu.</li>
@@ -51,6 +54,7 @@ public class MainMenu : MonoBehaviour
     <li>A tecla <strong>Esc</strong> ativa e desativa o menu de pausa.</li>
     <li>O botão <strong>StartGame</strong> carrega a cena do jogo.</li>
     <li>O menu de opções pode ser ativado ou desativado.</li>
+    <li>Para mudar de cena, é necessário criar uma nova cena no Unity e configurá-la no <strong>Build Settings</strong>.</li>
 </ul>
 
 <h2>📷 Imagens Adicionais</h2>
