@@ -1,13 +1,11 @@
 # Interface-Usuario-Menu
 
 <h2>🛠️ Configuração do Projeto</h2>
+ <h2>📷 Imagens Hierarquia</h2>
+    <img src="IMG/IMG1.PNG" alt="Menu">
 <ol>
     <li>Abra o Unity e crie um novo projeto.</li>
     <li>Crie um <strong>Canvas</strong> para conter os elementos do menu.</li>
-
-    <h2>📷 Imagens Hierarquia</h2>
-    <img src="IMG/IMG1.PNG" alt="Menu">
-    
     <li>Adicione os botões e outros elementos conforme mostrado na imagem.</li>
     <li>Crie um GameObject chamado <strong>MainMenu</strong> e anexe o script abaixo a ele.</li>
 </ol>
